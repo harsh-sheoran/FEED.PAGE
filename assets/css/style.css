@@ -373,14 +373,19 @@
 }
 
 .line {
-    width: 100px;
-    height: 7px;
+    width: 189px;
+    height: 8px;
     margin-top: 40px;
     background: linear-gradient(to right, #2C49FE 80%, #01C8FF 20%);
 }
 
 .New-Posts {
-    font-size: 48px;
+    font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: left;
 }
 
 .P-24 {
@@ -450,18 +455,6 @@
     font-family: Poppins;
 }
 
-.box2 {
-    top: 232px;
-    width: 90px;
-    height: 62px;
-    left: 1530px;
-    color: #FFF;
-    font-size: 16px;
-    font-weight: 700;
-    text-align: center;
-    font-family:Poppins;
-    background: rgba(45, 60, 174, 0.53);
-}
 
 .last-heading {
     color: #fff;
@@ -677,11 +670,11 @@
 }
 
 .Events {
-    font-size: 28px;
+    font-size: 25px;
 }
 
 .Free {
-    font-size: 28px;
+    font-size: 25px;
 }
 
 .scrolled {
